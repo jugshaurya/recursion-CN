@@ -1,4 +1,6 @@
 # recursion-CN
 
-recursion codes
+recursion codes.
+
+
 Thank you Coding Ninjas for the course
